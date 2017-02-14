@@ -1,0 +1,2 @@
+#bertodaulat
+My expectation by taking this Operating System class is to gain more knowledge regarding Command-line Prompts and different Operating Systems in general
