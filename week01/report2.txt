@@ -1,0 +1,6 @@
+* Pushing, pulling and editing text inside Git *
+1. Open cd <filename> and then type vi <file name for text editor> to create a .txt file.
+2. Press "i" on your computer/laptop to make sure that the bottom most of your Terminal/PuTTY has declared "--INSERT--" to make sure that you are writing insidethe .txt file
+3. After finishing your text editing, press "Esc" on your computer/laptop to quit from INSERT mode, to compiling/saving mode. Type :wq to save your file entirely.
+4. Do the GitPush and GitPull to make sure that your file is pushed into your GitHub repository, using the file given in Scele. 
+5. Then you're done :)
